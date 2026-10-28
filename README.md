@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The New Flat Rate is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://thenewflatrate.com/
+The New Flat Rate provides flat‑rate pricing software with built‑in menu options for HVAC, plumbing, electrical and chimney contractors. Its platform lets technicians present five service options on each job, enabling customers to choose the level of service while businesses increase ticket value and reduce pricing guesswork. The solution includes training, coaching and a suite of resources to help contractors grow profitably and streamline operations.
+
+**Areas:** Company · Pricing · Software · Contractors · HVAC
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://thenewflatrate.com/)
+- [Documentation](https://thenewflatrate.com/about-us)
+- [Pricing](https://thenewflatrate.com/contractor-pricing-plans)
+- [Support](https://thenewflatrate.com/help-desk)
+- [Blog](https://thenewflatrate.com/blog)
+- [Terms of service](https://thenewflatrate.com/member-user-agreement)
+- [Privacy policy](https://thenewflatrate.com/privacy-policy)
+- [GitHub](https://github.com/TheNewFlatRate)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/the-new-flat-rate/](https://apis.io/providers/the-new-flat-rate/).
